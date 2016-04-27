@@ -33,4 +33,17 @@
 	+ Install pip by typing `sudo apt-get install python-pip` in your terminal
 	+ Also install virtualenv by typing `sudo pip install virtualenv`. Read more about virtualenv here.(https://virtualenv.pypa.io/en/latest/)
 
-- 
+- Redis (redis)
+	+  redis is used as in-memory caching database in all of our front-facing systems.
+	+  To install redis in your system, please follow the following guide. [Installation](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-redis)
+	+  To get started on redis, try this website. [Try Redis](http://try.redis.io/)
+	+  To know more about redis, go through this site. [Redis](http://redis.io)
+
+- Mysql Workbench
+	+ Download mysql-workbench from here. [Download](https://dev.mysql.com/downloads/workbench/)
+
+- Postman
+	+ Install postman chrome addon (https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en)
+	
+- Utilities
+	+ Install utility softwares like 7-zip, unzip, imagemagick, libreoffice, etc.
