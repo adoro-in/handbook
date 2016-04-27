@@ -14,6 +14,7 @@ Follow google java coding style for all your projects. [Style Guide](https://goo
 ## Python Coding Standards
 
 [** Know and Love PEP-8 **](https://www.python.org/dev/peps/pep-0008/)
+
 The most important thing for you to know as you write Python code is the importance of PEP-8:
 
 Read the full PEP-8 document before going any further in to the code.
