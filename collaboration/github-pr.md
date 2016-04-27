@@ -6,4 +6,4 @@ GitHub adds to the core of git a web interface that makes it easy to browse code
 
 ## steps
 
-![steps](/images/pr-steps.svg)
+![steps](/images/pr-steps.png)
