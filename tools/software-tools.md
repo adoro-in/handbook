@@ -1,7 +1,7 @@
 # Required Development Environment
 
 - OS:
-	+ We recommend using ubuntu 14.04 LTS (or any other os built on-top of it) as your development environment. As of all our servers run on ubuntu 14.04 LTS.
+	+ We recommend using ubuntu 14.04 LTS (or any other os built on-top of it) as your development environment. As of now, all our servers run on ubuntu 14.04 LTS.
 
 - Java (JDK 1.7.*)
  	+ The recommended java version is 1.7 . All of our current system runs on java version 1.7
