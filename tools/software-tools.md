@@ -15,7 +15,8 @@
 		* [Configuring Maven](http://maven.apache.org/guides/mini/guide-configuring-maven.html)
 		* [Stackover flow link on maven](http://stackoverflow.com/questions/5901378/what-exactly-is-a-maven-snapshot-and-why-do-we-need-it)
 		* [Simplified Maven](http://tedwise.com/2009/11/09/simple-guide-to-maven)
-
+- Intellij
+	+ Download community edition Intellij Idea from here. [Download Link] (https://www.jetbrains.com/idea/download/#section=linux)
 - Git 
 	+ We use for git for version control and all of our code is hosted on `Github`. So create an account on [Github](https://github.com) to get access to our code repositories.
 	+ To install git, type `sudo apt-get install git` in terminal

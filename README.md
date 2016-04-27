@@ -11,3 +11,4 @@ This is  Adoro employee handbook, which provides resources for a new developer t
 ## Code Management
 
 * [How to commit your code properly](/collaboration/github-pr.md)
+* [Coding Standards](/collaboration/coding-standards.md)
