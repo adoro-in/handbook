@@ -4,7 +4,7 @@
 	+ We recommend using ubuntu 14.04 LTS (or any other os built on-top of it) as your development environment. As of now, all our servers run on ubuntu 14.04 LTS.
 
 - Java (JDK 1.7.*)
- 	+ The recommended java version is 1.7 . All of our current system runs on java version 1.7
+ 	+ The recommended java version is 1.7 . Most of our current system runs on java version 1.7
  	+ For few specialized system which work on Java v1.8, JDK 1.8.* can be additionally installed later.
 	+ To install java, type the following command `sudo apt-get install openjdk-7-jdk`
 
