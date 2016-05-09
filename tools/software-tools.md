@@ -5,6 +5,7 @@
 
 - Java (JDK 1.7.*)
  	+ The recommended java version is 1.7 . All of our current system runs on java version 1.7
+ 	+ For few specialized system which work on Java v1.8, JDK 1.8.* can be additionally installed later.
 	+ To install java, type the following command `sudo apt-get install openjdk-7-jdk`
 
 - Maven (Version 3.0.5)
@@ -42,6 +43,10 @@
 
 - Mysql Workbench
 	+ Download mysql-workbench from here. [Download](https://dev.mysql.com/downloads/workbench/)
+
+- SQL Workbench/J
+	+ Installing and starting SQL Workbench/J (http://www.sql-workbench.net/manual/install.html)
+	+ Connect to Your Cluster over a JDBC Connection in SQL Workbench/J (http://docs.aws.amazon.com/redshift/latest/mgmt/connecting-using-workbench.html)
 
 - Postman
 	+ Install postman chrome addon (https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en)
